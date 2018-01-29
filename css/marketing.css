@@ -12,6 +12,7 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
+    font-family: Avenir Next;
 }
 
 h1,
@@ -94,6 +95,7 @@ a.pure-button-primary {
     padding: 0.5em;
     text-align: center;
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
+    font-family: Avenir Next;
 }
 .home-menu.pure-menu-open {
     background: #2d3e50;
@@ -133,6 +135,7 @@ a.pure-button-primary {
 
 .splash-container {
     background: #1f8dd6;
+    /*background: #EA8300;*/
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -148,7 +151,7 @@ a.pure-button-primary {
     width: 80%;
     height: 50%;
     margin: auto;
-    position: absolute;
+    position: relative;
     top: 100px; left: 0; bottom: 0; right: 0;
     text-align: center;
     text-transform: uppercase;
@@ -159,7 +162,7 @@ a.pure-button-primary {
     font-size: 20px;
     font-weight: bold;
     color: white;
-    border: 3px solid white;
+    /*border: 3px solid white;*/
     padding: 1em 1.6em;
     font-weight: 100;
     border-radius: 5px;
@@ -180,7 +183,7 @@ a.pure-button-primary {
 .content-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 87%;
+    top: 57%;
     width: 100%;
     min-height: 12%;
     z-index: 2;
