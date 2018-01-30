@@ -1,18 +1,8 @@
 # kgentner.github.io
 
-Pure CSS Layout Examples
-========================
-
-Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
-
-[pure]: http://purecss.io/
-[pure-site]: https://github.com/yahoo/pure-site
+Online Resume for Karl Gentner, based on the template from Blackrock Digital LLC. 
 
 
-License
--------
+## Copyright and License
 
-This software is free to use under the Yahoo! Inc. BSD license.
-See the [LICENSE file][] for license text and copyright information.
-
-[LICENSE file]: https://github.com/yahoo/pure-site/blob/master/LICENSE.md
+Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
