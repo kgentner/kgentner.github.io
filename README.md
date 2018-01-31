@@ -1,6 +1,8 @@
 # kgentner.github.io
 
-Online Resume for Karl Gentner, based on the template from Blackrock Digital LLC. 
+Online Resume for Karl Gentner, based on the template from Blackrock Digital LLC.
+
+Check it out at [http://kgentner.github.io/](http://kgentner.github.io/)
 
 
 ## Copyright and License
