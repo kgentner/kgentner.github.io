@@ -6,9 +6,20 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+@font-face {
+  font-family: avenirnextlt_reg;
+  src: url(../font/AvenirNextLTPro-Regular.otf);
+}
+
+@font-face {
+  font-family: avenirnextlt_bold;
+  src: url(../font/AvenirNextLTPro-Bold.otf);
+}
+
 @mixin body-font {
-  font-family: 'Avenir Next', serif;
+  font-family: 'Avenir Next','avenirnextlt_reg', 'Arial';
 }
 @mixin heading-font {
-  font-family: 'Avenir Next', serif;
+  font-family: 'Avenir Next', 'avenirnextlt_bold', 'Arial';
 }

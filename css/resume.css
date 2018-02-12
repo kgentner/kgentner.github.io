@@ -1,5 +1,15 @@
+@font-face {
+  font-family: avenirnextlt_reg;
+  src: url(../font/AvenirNextLTPro-Regular.otf);
+}
+
+@font-face {
+  font-family: avenirnextlt_bold;
+  src: url(../font/AvenirNextLTPro-Bold.otf);
+}
+
 body {
-  font-family: 'Avenir Next', serif;
+  font-family: 'Avenir Next','avenirnextlt_reg', 'Arial';
   padding-top: 54px;
   color: #495057;
 }
@@ -17,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Avenir Next', serif;
+  font-family: 'Avenir Next', 'avenirnextlt_bold', 'Arial';
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -35,7 +45,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Avenir Next', serif;
+  font-family: 'Avenir Next', 'avenirnextlt_bold', 'Arial';
   font-size: 1.35rem;
 }
 
